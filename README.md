@@ -2,9 +2,13 @@
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
   <a href="https://twitter.com/try_pedro" target="_blank">
-    <img alt="Twitter: try_pedro" src="https://img.shields.io/twitter/follow/try\_pedro.svg?style=social" />
+    <img alt="Twitter: try_pedro" src="https://img.shields.io/twitter/follow/try_pedro.svg?style=social" />
   </a>
 </p>
+
+## Introduction
+
+A short introduction to the world of react-native is the basics of starting a project with react-native-cli.
 
 ## Install
 
@@ -28,12 +32,5 @@ yarn run test
 
 👤 **Pedro Ivo**
 
-* Twitter: [@try\_pedro](https://twitter.com/try\_pedro)
+* Twitter: [@try\_pedro](https://twitter.com/try_pedro)
 * Github: [@trypedro](https://github.com/trypedro)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
